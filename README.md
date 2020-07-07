@@ -1,1 +1,2 @@
-sioremonのporfolio代わりのサイト
+# sioremonの自己紹介サイト
+sioremonのporfolio代わりのサイトです
