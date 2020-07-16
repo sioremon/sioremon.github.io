@@ -1,1 +1,40 @@
+h1{color: white;}
 h3{color: red;}
+body {
+    background-image: url("coplandOS.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Basic_info{
+    color: white;
+}
+.my_skills{
+    color: white;
+}
+.description{
+    color: white;
+}
+a:link {
+ 
+    color:ff0;
+    text-decoration:underline;
+     
+}
+a:visited {
+ 
+    color:#fff;
+    text-decoration:underline;
+     
+}
+a:hover {
+ 
+    color:#999;
+    text-decoration:underline;
+     
+}
+a:active {
+ 
+    color:#fff;
+    text-decoration:none;
+     
+}
