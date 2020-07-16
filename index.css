@@ -5,6 +5,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+p {
+    color: white;
+}
 .Basic_info{
     color: white;
 }
